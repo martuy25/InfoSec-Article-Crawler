@@ -16,7 +16,7 @@ This directory contains two Python files, main.py and article_script.py, which w
 - Requests
 
 ## Key Functions
-- grab_Krebs_articles and grab_hacker_news_articles: These functions fetch the content of the respective websites.
-- parse_Krebs_articles and parse_hacker_news_articles: These functions extract relevant information from the fetched content, such as titles, URLs, summaries, and tags.
-- store_Krebs_articles and store_hacker_news_articles: These functions store the extracted article data in the database.
-- search_Krebs_articles and search_hacker_news_articles: These functions allow you to search for articles based on keywords in the title, summary, or tags.
+- "grab_Krebs_articles" and "grab_hacker_news_articles": These functions fetch the content of the respective websites.
+- "parse_Krebs_articles" and "parse_hacker_news_articles": These functions extract relevant information from the fetched content, such as titles, URLs, summaries, and tags.
+- "store_Krebs_articles" and "store_hacker_news_articles": These functions store the extracted article data in the database.
+- "search_Krebs_articles" and "search_hacker_news_articles": These functions allow you to search for articles based on keywords in the title, summary, or tags.
